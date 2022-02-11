@@ -90,12 +90,12 @@
 		"categories": ["Utility"]
 	},
 	{
-		"titleid": "NPXX33562",
-		"contentid": "HW1633-NPXX33362_00-HOMEBREWSSSSSSsSS",
+		"titleid": "LAPY200073",
+		"contentid": "ED1234-LAPY20007_00-0000000000000000",
 		"type": "game",
-		"name": "ps4 store",
-		"icon": "https://sony-ps5.com/wp-content/uploads/2018/01/PlayStation-Store.jpg",
-		"links": ["https://drive.google.com/uc?export=download&confirm=TF2c&id=1Gvi6toX7NvWyPzFp4h_RR6bBhH7D7se3"],
+		"name": "Icon Mask (Beta)",
+		"icon": "https://gmedia.playstation.com/is/image/SIEPDC/ps-store-blue-bag-icon-01-22sep20?$native--t$",
+		"links": ["https://drive.google.com/u/0/uc?export=download&confirm=sa1A&id=1H0PNDAyN3WwqFQV8ANewMf6cAtwtL2Ty"],
 		"categories": ["Utility"]
 	}
 ]
